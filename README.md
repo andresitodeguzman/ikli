@@ -1,4 +1,4 @@
-# Ikli JS
+# Ikli
 Render repeating content much faster
 
 ## Example
