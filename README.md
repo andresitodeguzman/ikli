@@ -38,3 +38,8 @@ Render repeating content much faster
   <a href="#!">Sample header</a>
 </nav>
 ```
+
+## Reminders
+- This is not a replacement for custom components. Properties are not available as of the moment. This is only made to shorten development.
+- By default, use `<div id="elementname"></div>` instead of `<elementname></elementname>`. If you really want, enable by `ikli.customComponent = true;`
+- Location is at `./includes`, you may change it through `ikli.location = "any-location";`.
