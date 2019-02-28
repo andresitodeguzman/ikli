@@ -23,7 +23,7 @@ Render repeating content much faster
   </body>
 </html>
 <script>
-  // define elements here
+  // list elements here
   ikli.elements = ['header','sidebar','footer'];
   // enable custom component
   ikli.customComponent = true;
